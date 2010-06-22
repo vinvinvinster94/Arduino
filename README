@@ -1,0 +1,3 @@
+Currently includes classes for the Ping))) ultrasonic sensor, the Parallax QTI sensor, and the Hitachi HM55B compass module.
+
+For any sensors not included please add a comment on the requests wiki page.
